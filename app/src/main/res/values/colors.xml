@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ED1B24</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ActionBarcolor">#ED1B24</color>
+    <color name="StatusBarcolor">#CB161B</color>
+    <color name="Backgroundgrey">#D0D0D0</color>
+    <color name="CardViewsubtitle">#A9A9A9</color>
+    <color name="CardView1Title">#1486c4</color>
+    <color name="CardView2Title">#B53828</color>
+    <color name="CardView3Title">#C9088C</color>
+    <color name="CardView4Title">#8F65A3</color>
+    <color name="CardView5Title">#17B5C8</color>
+    <color name="CardView6Title">#408144</color>
+    <color name="CardView7Title">#E6741E</color>
+</resources>

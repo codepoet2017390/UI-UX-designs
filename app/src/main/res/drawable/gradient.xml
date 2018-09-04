@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--  Gradient Bg for listrow -->
+    <gradient
+        android:startColor="@color/CardView1Title"
+        android:centerColor="#3A8AD1"
+        android:endColor="#0C3D61"
+        android:angle="0" />
+</shape>
